@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+  padding: 20px;
+  background-color: lightcoral;
+  border: black solid 3px;
+}
+
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+.info {
+  padding: 10px;
+}
