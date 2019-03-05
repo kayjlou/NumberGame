@@ -26,6 +26,12 @@ const init = () => {
   }
 };
 
+const reset = () => {
+  if (isFinished) {
+    init();
+  }
+};
+
 //Check if they are equal
 const check = () => {
   if (currNum === goalNum) {
