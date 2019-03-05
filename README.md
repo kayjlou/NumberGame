@@ -1,1 +1,3 @@
-# CrystalCollector2
+# NumberGame
+
+Simple javascript game 
